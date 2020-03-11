@@ -1,5 +1,5 @@
 # Skull Stripping Tutorial
-The Skull Stripping tutorial shows how to perform semi-automated skull stripping in a CT and an MR dataset using 3D Slicer. 
+The Skull Stripping tutorial shows how to perform semi-automated skull stripping in CT and MR data using 3D Slicer. 
 
 Authors
 * Sonia Pujol, Ph.D, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
