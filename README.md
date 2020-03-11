@@ -4,7 +4,7 @@ The Skull Stripping tutorial shows how to perform semi-automated skull stripping
 
 Authors
 * Sonia Pujol, Ph.D, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
-* Andras Lasso, Ph.D., Associate Director (Engineering), The Perk Lab, Queen's University, Canada
+* Andras Lasso, Ph.D., Associate Director, The Perk Lab, Queen's University, Canada
 * Ron Kikinis, MD, Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 
 # SkullStripping in CT data
